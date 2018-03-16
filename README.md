@@ -3,7 +3,7 @@
 # [ss-panel v3 mod魔改版一键脚本](https://91vps.club/2017/05/27/ss-panel-v3-mod/)
 **56vps版**
 ```
-wget -N --no-check-certificate https://raw.githubusercontent.com/xyyhqq/ssv3-back/master/ss-panel-v3-mod.sh && chmod +x ss-panel-v3-mod.sh && bash ss-panel-v3-mod.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/xyyhqq/sspanel_v3_back-end/master/ss-panel-v3-mod.sh && chmod +x ss-panel-v3-mod.sh && bash ss-panel-v3-mod.sh
 ```
 **91vps版**
 ```
